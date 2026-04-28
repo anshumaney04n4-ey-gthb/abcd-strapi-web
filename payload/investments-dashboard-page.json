@@ -1,0 +1,508 @@
+{
+  "data": {
+    "subProduct": "fixed-deposits",
+    "partner": "default",
+    "header": {
+      "logo": {
+        "alt": "ABCD Bank"
+      }
+    },
+    "userSidebarAssets": {},
+    "bannerFD": {
+      "amount": "8.05",
+      "unit": "p.a",
+      "prefix": "Earn up to ",
+      "heading": "Suryoday Small Finance Bank",
+      "badge": "Popular Choice",
+      "buttonLabel": "Book now",
+      "gradientColor1": "rgba(255, 200, 0, 0.8)",
+      "gradientColor2": "rgba(255, 150, 0, 0.6)",
+      "items": [],
+      "cards": [
+        {
+          "bankId": "suryoday",
+          "bankName": "Suryoday Small Finance Bank",
+          "fdType": "Standard FD",
+          "interestRate": "8.05",
+          "tenure": "12 months",
+          "maxAge": "No",
+          "logoImagePath": null,
+          "buttonLabel": "Book Now"
+        }
+      ],
+      "banners": []
+    },
+    "resumeKYC": {
+      "heading": "Almost there! Complete your KYC.",
+      "supportingText": "Just add your PAN details to get started.",
+      "resumeButtonText": "Resume"
+    },
+    "calculator": {
+      "heading": "Find the FD that fits you",
+      "depositLabel": "Deposit amount (in ₹)",
+      "depositPlaceholder": "Enter amount",
+      "tenureLabel": "Investment Tenure",
+      "checkboxLabel": "I am a senior citizen",
+      "buttonLabel": "Search Banks",
+      "currencySymbol": "₹",
+      "depositMin": 1000,
+      "depositMax": 10000000,
+      "depositStep": 1000,
+      "defaultDeposit": 100000,
+      "defaultTenure": "1y-2y",
+      "tenureOptions": [
+        {
+          "id": "7d-14d",
+          "label": "7D to 14D",
+          "value": "7d-14d"
+        },
+        {
+          "id": "15d-29d",
+          "label": "15D to 29D",
+          "value": "15d-29d"
+        },
+        {
+          "id": "1m-2m",
+          "label": "1M to 2M",
+          "value": "1m-2m"
+        },
+        {
+          "id": "3m-5m",
+          "label": "3M to 5M",
+          "value": "3m-5m"
+        },
+        {
+          "id": "6m-11m",
+          "label": "6M to 11M",
+          "value": "6m-11m"
+        },
+        {
+          "id": "1y-2y",
+          "label": "1Y to 2Y",
+          "value": "1y-2y"
+        },
+        {
+          "id": "2y-3y",
+          "label": "2Y to 3Y",
+          "value": "2y-3y"
+        },
+        {
+          "id": "3y-5y",
+          "label": "3Y to 5Y",
+          "value": "3y-5y"
+        },
+        {
+          "id": "5y-10y",
+          "label": "5Y to 10Y",
+          "value": "5y-10y"
+        }
+      ],
+      "sliderLabels": ["1K", "1L", "10L", "50L", "1Cr"],
+      "sliderMarkerValues": [1000, 100000, 1000000, 5000000, 10000000],
+      "banksHeading": "Banks that fit you well",
+      "selectedPlanHeading": "Your Selected Plan",
+      "recommendedPlanHeading": "Recommended Plan",
+      "recalculateLabel": "Recalculate",
+      "bookFDLabel": "Book FD",
+      "banksPerSlide": 3,
+      "bankOptions": [],
+      "selectedPlan": {
+        "investedAmount": "₹1,00,000",
+        "corpus": "₹1,08,461",
+        "tenure": "12 months",
+        "yield": "8.05%"
+      },
+      "recommendedPlan": {
+        "investedAmount": "₹1,00,000",
+        "corpus": "₹1,08,461",
+        "tenure": "12 months",
+        "yield": "8.05%"
+      }
+    },
+    "fdGenie": {
+      "header": "Find the FD that fits you",
+      "depositRange": {
+        "min": 1000,
+        "max": 10000000,
+        "tickMarks": []
+      },
+      "tenureChips": [
+        {
+          "label": "7D to 14D",
+          "minMonths": 7,
+          "maxMonths": 14
+        },
+        {
+          "label": "1M to 2M",
+          "minMonths": 30,
+          "maxMonths": 60
+        },
+        {
+          "label": "3M to 6M",
+          "minMonths": 90,
+          "maxMonths": 180
+        },
+        {
+          "label": "1Y to 2Y",
+          "minMonths": 12,
+          "maxMonths": 24
+        },
+        {
+          "label": "2Y to 3Y",
+          "minMonths": 24,
+          "maxMonths": 36
+        },
+        {
+          "label": "3Y to 5Y",
+          "minMonths": 36,
+          "maxMonths": 60
+        }
+      ],
+      "seniorCitizenLabel": "Senior citizen",
+      "womanLabel": "Woman",
+      "ctaLabel": "Get my Best FD Options"
+    },
+    "fdGenieRates": [
+      {
+        "bankId": "suryoday",
+        "bankName": "Suryoday Small Finance Bank",
+        "minTenureMonths": 12,
+        "maxTenureMonths": 24,
+        "regularRate": "8.05",
+        "seniorRate": "8.55",
+        "superSeniorRate": "8.80"
+      }
+    ],
+    "portfolio": {
+      "portfolioValue": "₹0",
+      "portfolioValueLabel": "Current Portfolio Value",
+      "stats": [
+        {
+          "label": "Total Invested",
+          "value": "₹0"
+        },
+        {
+          "label": "Total Interest Earned",
+          "value": "₹0"
+        },
+        {
+          "label": "Active FDs",
+          "value": "0"
+        }
+      ],
+      "banks": [],
+      "showViewMoreButton": false
+    },
+    "rd": {
+      "title": "Build Savings with Recurring Deposits",
+      "banks": [],
+      "selectedBankId": "shivalik",
+      "depositOptions": [
+        {
+          "id": "1k",
+          "amount": 1000,
+          "label": "₹1,000"
+        },
+        {
+          "id": "2k",
+          "amount": 2000,
+          "label": "₹2,000"
+        },
+        {
+          "id": "5k",
+          "amount": 5000,
+          "label": "₹5,000"
+        },
+        {
+          "id": "10k",
+          "amount": 10000,
+          "label": "₹10,000"
+        }
+      ],
+      "selectedDepositAmount": 5000,
+      "tenureOptions": [
+        {
+          "id": "1y",
+          "label": "1 Year",
+          "value": "1y"
+        },
+        {
+          "id": "2y",
+          "label": "2 Years",
+          "value": "2y"
+        },
+        {
+          "id": "3y",
+          "label": "3 Years",
+          "value": "3y"
+        },
+        {
+          "id": "5y",
+          "label": "5 Years",
+          "value": "5y"
+        }
+      ],
+      "selectedTenureYears": 5,
+      "interestRate": 8.0,
+      "maturityAmount": 365000,
+      "interestEarned": 15000,
+      "interestRateOptions": [
+        {
+          "value": "7.50",
+          "label": "7.50%"
+        },
+        {
+          "value": "8.00",
+          "label": "8.00%"
+        },
+        {
+          "value": "8.50",
+          "label": "8.50%"
+        }
+      ],
+      "bookRDButtonText": "Book RD"
+    },
+    "explore": {
+      "heading": "Explore FDs",
+      "filters": null,
+      "filterInfoBanners": [],
+      "fdMasterTable": [],
+      "cards": [],
+      "carousel": null
+    },
+    "highlights": {
+      "title": "Why Choose FD",
+      "showNavigation": true,
+      "items": [
+        {
+          "id": "highlight-1",
+          "title": "Higher Interest Rates",
+          "description": "Get better returns compared to savings accounts",
+          "ctaText": "Learn More",
+          "badgeText": "Best Value",
+          "background": "#FFF8E1"
+        },
+        {
+          "id": "highlight-2",
+          "title": "Flexible Tenure",
+          "description": "Choose tenure from 7 days to 10 years",
+          "ctaText": "View Options",
+          "background": "#E3F2FD"
+        },
+        {
+          "id": "highlight-3",
+          "title": "Digital Process",
+          "description": "Open FD from home in simple steps",
+          "ctaText": "Get Started",
+          "background": "#E8F5E9"
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us",
+      "headerIconPath": null,
+      "headerIconAlt": "",
+      "isOpenByDefault": true,
+      "columns": 2,
+      "features": [
+        {
+          "id": "feature-1",
+          "iconPath": null,
+          "label": "Secure Investment"
+        },
+        {
+          "id": "feature-2",
+          "iconPath": null,
+          "label": "Instant Disbursal"
+        },
+        {
+          "id": "feature-3",
+          "iconPath": null,
+          "label": "24/7 Support"
+        },
+        {
+          "id": "feature-4",
+          "iconPath": null,
+          "label": "Best Rates"
+        }
+      ]
+    },
+    "bookFD": {
+      "title": "How to Book an FD",
+      "highlightedText": "in 3 easy steps",
+      "steps": [
+        {
+          "id": "step-1",
+          "label": "Select Amount & Tenure",
+          "iconSrc": null,
+          "iconAlt": "Select"
+        },
+        {
+          "id": "step-2",
+          "label": "Choose Bank & Plan",
+          "iconSrc": null,
+          "iconAlt": "Choose"
+        },
+        {
+          "id": "step-3",
+          "label": "Complete Payment",
+          "iconSrc": null,
+          "iconAlt": "Payment"
+        }
+      ],
+      "requiredDocuments": [
+        {
+          "id": 1,
+          "label": "Aadhaar Card"
+        },
+        {
+          "id": 2,
+          "label": "PAN Card"
+        },
+        {
+          "id": 3,
+          "label": "Passport Size Photo"
+        }
+      ],
+      "checkmarkIconSrc": null,
+      "checkmarkIconAlt": "Done"
+    },
+    "learnMore": {
+      "title": "Learn More",
+      "showPagination": true,
+      "items": [
+        {
+          "id": "learn-1",
+          "title": "What is a Fixed Deposit?",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "FD Basics",
+          "ctaLabel": "Read More",
+          "ctaTone": "primary",
+          "showPlayIcon": false,
+          "url": "/learn/fixed-deposit-basics"
+        },
+        {
+          "id": "learn-2",
+          "title": "How to Choose the Best FD",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "Choose FD",
+          "ctaLabel": "Watch Video",
+          "ctaTone": "secondary",
+          "showPlayIcon": true,
+          "url": "/learn/choose-best-fd"
+        },
+        {
+          "id": "learn-3",
+          "title": "Senior Citizen FD Benefits",
+          "thumbnailSrc": null,
+          "thumbnailAlt": "Senior FD",
+          "ctaLabel": "Learn More",
+          "ctaTone": "primary",
+          "showPlayIcon": false,
+          "url": "/learn/senior-citizen-fd"
+        }
+      ]
+    },
+    "faq": {
+      "items": [
+        {
+          "id": "faq-1",
+          "title": "What is the minimum FD amount?",
+          "icon": null,
+          "content": "The minimum FD amount is ₹1,000.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "id": "faq-2",
+          "title": "What is the tenure options available?",
+          "icon": null,
+          "content": "FD tenure ranges from 7 days to 10 years.",
+          "isExternal": false,
+          "externalUrl": null
+        },
+        {
+          "id": "faq-3",
+          "title": "How is interest paid?",
+          "icon": null,
+          "content": "Interest can be paid monthly, quarterly, or on maturity.",
+          "isExternal": false,
+          "externalUrl": null
+        }
+      ],
+      "defaultExpandedIds": ["faq-1"]
+    },
+    "glFaq": {
+      "title": "Frequently Asked Questions",
+      "tabs": [
+        {
+          "id": "general",
+          "label": "General",
+          "items": []
+        },
+        {
+          "id": "rates",
+          "label": "Interest Rates",
+          "items": []
+        },
+        {
+          "id": "tax",
+          "label": "Tax & Savings",
+          "items": []
+        }
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "faqitem-1",
+        "title": "Can I withdraw my FD early?",
+        "icon": null,
+        "content": "Yes, you can withdraw your FD before maturity. However, a penalty may be charged as per the bank's terms.",
+        "isExternal": false,
+        "externalUrl": null
+      },
+      {
+        "id": "faqitem-2",
+        "title": "What happens on FD maturity?",
+        "icon": null,
+        "content": "On maturity, the principal amount along with accrued interest will be credited to your linked bank account.",
+        "isExternal": false,
+        "externalUrl": null
+      },
+      {
+        "id": "faqitem-3",
+        "title": "Are FD deposits insured?",
+        "icon": null,
+        "content": "Yes, FD deposits are insured up to ₹5 lakh per depositor per bank by DICGC.",
+        "isExternal": false,
+        "externalUrl": null
+      }
+    ],
+    "defaultOpenFaqIds": ["faqitem-1"],
+    "footer": {
+      "referenceDetails": {
+        "heading": "Offered by",
+        "name": "ABCD Bank"
+      },
+      "features": [
+        {
+          "text": "Secure & Trusted",
+          "order": 1
+        },
+        {
+          "text": "Instant Opening",
+          "order": 2
+        },
+        {
+          "text": "Best Rates",
+          "order": 3
+        },
+        {
+          "text": "24/7 Support",
+          "order": 4
+        }
+      ],
+      "sideLogoDetails": null
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "subProduct": "tracks",
+    "partner": "Vodafone",
+    "heroTitle": "Track Your Credit Score for Free",
+    "heroDescription": "Multiple Trusted Lenders, 24 hours* Disbursal",
+    "heroCtaText": "Apply Now",
+    "footerHeading": "Powered by",
+    "footerName": "ABCD",
+    "footerCertification": "RBI Regulated Lenders",
+    "header": {
+      "logoAlt": "ABCD Logo",
+      "logoSize": 40,
+      "logoPath": "/logos/lob/abcd.svg",
+      "mobileHeaderLogoPath": "/logos/lob/abcd.svg"
+    },
+    "predictCreditScore": {
+      "title": "Predict your credit score",
+      "simulatorLink": "#"
+    },
+    "referralCard": {
+      "subtitle": "Refer & Earn",
+      "heading": "Invite friends and earn",
+      "rewardAmount": "₹500",
+      "referalLink": "#"
+    },
+    "latestArticles": {
+      "title": "Latest articles",
+      "articles": [
+        {
+          "articleId": "article-1",
+          "text": "Understanding Basics: Credit Score 101",
+          "imagePath": "/tracks/icons/tick.png"
+        },
+        {
+          "articleId": "article-2",
+          "text": "How to Improve Your Credit Score",
+          "imagePath": "/tracks/icons/tick.png"
+        },
+        {
+          "articleId": "article-3",
+          "text": "Credit Cards: Best Practices",
+          "imagePath": "/tracks/icons/tick.png"
+        },
+        {
+          "articleId": "article-4",
+          "text": "Managing Your Credit Utilization",
+          "imagePath": "/tracks/icons/tick.png"
+        }
+      ]
+    },
+    "sidebarFAQs": [
+      {
+        "faqId": "faq-what-is-credit-score",
+        "title": "What is a credit score?",
+        "iconPath": "/tracks/assets/sidebar-faq/meter1.png",
+        "content": "A credit score is a 3-digit number ranging from 300 to 900 that represents your creditworthiness. Higher scores indicate better credit behavior and make it easier to get loans approved at better interest rates."
+      },
+      {
+        "faqId": "faq-how-to-improve",
+        "title": "How to improve credit score?",
+        "iconPath": "/tracks/assets/sidebar-faq/search.png",
+        "content": "Pay all bills on time, keep credit utilization below 30%, maintain old credit accounts, avoid too many credit inquiries, and maintain a healthy mix of credit types."
+      },
+      {
+        "faqId": "faq-other-questions",
+        "title": "Other questions?",
+        "iconPath": "/tracks/assets/sidebar-faq/other-questions.png",
+        "content": "If you have more questions about credit scores, feel free to reach out to our support team or check out our comprehensive FAQ section on our website."
+      }
+    ],
+    "raiseDispute": {
+      "raiseDisputeText": "Raise dispute",
+      "raiseDisputeLink": "#"
+    },
+    "footerDisclaimer": {
+      "footerDisclaimerText": "ABCD is partnered with Equifax(bureau) to fetch your credit report. ABCD itself doesn't evaluate your credit score"
+    },
+    "downloadReport": {
+      "sidebarHeader": {
+        "title": "Get report",
+        "backButtonVariant": "pill",
+        "backButtonColor": "#050000",
+        "titleColor": "#ffffff",
+        "background": {
+          "variant": "red",
+          "showPattern": false
+        }
+      },
+      "title": "GET YOUR CREDIT REPORT",
+      "subtitle": "Enter the Email ID on which you want to receive your credit score report",
+      "emailLabel": "Email ID",
+      "emailPlaceholder": "Enter Email ID",
+      "primaryButtonText": "Download report",
+      "secondaryButtonText": "Send to email",
+      "successIcon": "/icons/done.svg",
+      "successTitle": "Report downloaded successfully",
+      "successEmailTitle": "Report sent to email ID successfully",
+      "successInfoMessage": "Not sure how to read your report?\nLearn more here",
+      "successInfoIcon": "/icons/lightbulb-variant.svg",
+      "successInfoIconColor": "#F7A500",
+      "successBackButtonText": "Back to dashboard",
+      "toastDownloadSuccess": "Report downloaded successfully",
+      "toastDownloadError": "Failed to download report. Please try again.",
+      "toastEmailSuccess": "Report sent to your email successfully",
+      "toastEmailError": "Failed to send report to email. Please try again.",
+      "toastEmailRequired": "Email address is required"
+    },
+    "refreshOnApp": {
+      "sidebarHeader": {
+        "title": "Credit Score",
+        "backButtonVariant": "pill",
+        "backButtonColor": "#050000",
+        "titleColor": "#ffffff",
+        "background": {
+          "variant": "red",
+          "showPattern": false
+        },
+        "showHelpIcon": true
+      },
+      "title": "Download the ABCD app to refresh your credit score",
+      "subtitle": "Keep a monthly check on your credit report using our mobile app",
+      "illustrationSrc": "/icons/Refresh-your-credit-score.svg",
+      "illustrationAlt": "Refresh Credit Score",
+      "abcdLogoSrc": "/logos/lob/abcd.svg",
+      "appDownloadText": "Download the app now",
+      "ctaButtons": [
+        {
+          "label": "App Store",
+          "link": "https://apps.apple.com/",
+          "iconSrc": "/icons/app-store.svg",
+          "iconAlt": "Apple App Store"
+        },
+        {
+          "label": "Google Play",
+          "link": "https://play.google.com/store",
+          "iconSrc": "/icons/google-play.svg",
+          "iconAlt": "Google Play Store"
+        }
+      ],
+      "actionButtonText": "Got it"
+    },
+    "payBills": {
+      "sidebarHeader": {
+        "title": "Pay Bills",
+        "backButtonVariant": "pill",
+        "backButtonColor": "#050000",
+        "titleColor": "#ffffff",
+        "background": {
+          "variant": "red",
+          "showPattern": false
+        },
+        "showHelpIcon": true
+      },
+      "title": "PAY YOUR BILLS AND EMI ON THE ABCD APP",
+      "subtitle": "Download our mobile app to easily pay off your bills and EMIs",
+      "illustrationSrc": "/icons/calendar-blue.png",
+      "illustrationAlt": "Pay Bills",
+      "abcdLogoSrc": "/logos/lob/abcd.svg",
+      "appDownloadText": "Download the app now",
+      "ctaButtons": [
+        {
+          "label": "App Store",
+          "link": "https://apps.apple.com/",
+          "iconSrc": "/icons/app-store.svg",
+          "iconAlt": "Apple App Store"
+        },
+        {
+          "label": "Google Play",
+          "link": "https://play.google.com/store",
+          "iconSrc": "/icons/google-play.svg",
+          "iconAlt": "Google Play Store"
+        }
+      ],
+      "actionButtonText": "Got it"
+    },
+    "consentModal": {
+      "title": "Renew permission\nfor credit report access",
+      "subtitle": "Continue to enjoy seamless access to your credit score.",
+      "infoIconTooltip": "Your consent expires every 6 months. After expiry, you will need to fetch your score once again.",
+      "warningMessage": "Expiring in 15 days",
+      "consentLabel": "I accept the",
+      "termsText": "terms and conditions",
+      "termsUrl": "/terms",
+      "readMoreText": "Read more",
+      "readLessText": "Read less",
+      "representativeTextCollapsed": " and appoint ABCD as my authorized representative to receive my credit information from Experian...",
+      "representativeTextExpanded": " and appoint ABCD as my authorized representative to receive my credit information from Experian for the purpose of providing credit tracking services.",
+      "updateButtonText": "Update",
+      "doLaterLinkText": "Do this later"
+    },
+    "renewConsentBanner": {
+      "title": "Renew consent before your Credit Data is removed",
+      "badgeText": "Expiring soon",
+      "consentLabel": "I accept the",
+      "termsText": "terms and conditions",
+      "termsUrl": "/terms",
+      "consentContinuationText": " and appoint ABCD as my authorized representative to receive my credit information from Experian...",
+      "readMoreText": "Read more",
+      "readLessText": "Read less",
+      "updateButtonText": "Update"
+    }
+  }
+}

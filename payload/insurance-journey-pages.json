@@ -1,0 +1,511 @@
+{
+  "data": {
+    "subProduct": "motor",
+    "partner": "default",
+    "headerLogo": null,
+    "mobileHeaderLogo": null,
+    "seoMeta": {
+      "enabled": false,
+      "content": {
+        "metaTitle": "",
+        "metaDescription": "",
+        "metaKeywords": "",
+        "canonicalUrl": "",
+        "ogImage": null
+      }
+    },
+    "captureRegistrationNumber": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "secondaryLinkText": "I don't remember my registration number",
+      "helpAriaLabel": "Get help with entering vehicle registration number",
+      "inputLabel": "Registration Number",
+      "inputPlaceholder": "e.g., MH47ABO123",
+      "helpText": "Enter the registration number from your vehicle certificate",
+      "inputPattern": "[A-Z0-9]{1,10}",
+      "invalidRegistrationMessage": "Enter a valid registration number (e.g., MH 12 AB 1234)"
+    },
+    "captureVehicleMake": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting a car brand",
+      "popularBrands": [
+        {
+          "order": 1,
+          "id": "1",
+          "brandName": "Maruti Suzuki",
+          "brandIconName": "MarutiSuzuki",
+          "brandLogoUrl": "/assets/vehicle-brands/MarutiSuzuki.png"
+        },
+        {
+          "order": 2,
+          "id": "2",
+          "brandName": "Hyundai",
+          "brandIconName": "Hyundai",
+          "brandLogoUrl": "/assets/vehicle-brands/hyundai-logo.png"
+        },
+        {
+          "order": 3,
+          "id": "3",
+          "brandName": "Tata Motors",
+          "brandIconName": "Tata",
+          "brandLogoUrl": "/assets/vehicle-brands/tatamotorslogo.png"
+        },
+        {
+          "order": 4,
+          "id": "4",
+          "brandName": "Mahindra",
+          "brandIconName": "Mahindra",
+          "brandLogoUrl": "/assets/vehicle-brands/Mahindra.png"
+        },
+        {
+          "order": 5,
+          "id": "5",
+          "brandName": "Toyota",
+          "brandIconName": "Toyota",
+          "brandLogoUrl": "/assets/vehicle-brands/Toyotalogo.png"
+        },
+        {
+          "order": 6,
+          "id": "6",
+          "brandName": "Kia",
+          "brandIconName": "Kia",
+          "brandLogoUrl": "/assets/vehicle-brands/Kialogo.png"
+        },
+        {
+          "order": 7,
+          "id": "7",
+          "brandName": "Honda",
+          "brandIconName": "Honda",
+          "brandLogoUrl": "/assets/vehicle-brands/Hondalogo.png"
+        },
+        {
+          "order": 8,
+          "id": "8",
+          "brandName": "MG Motors",
+          "brandIconName": "MG",
+          "brandLogoUrl": "/assets/vehicle-brands/MGMotorlogo.png"
+        }
+      ],
+      "popularBrands4W": [
+        {
+          "order": 1,
+          "id": "1",
+          "brandName": "Maruti Suzuki",
+          "brandIconName": "MarutiSuzuki",
+          "brandLogoUrl": "/assets/vehicle-brands/MarutiSuzuki.png"
+        },
+        {
+          "order": 2,
+          "id": "2",
+          "brandName": "Hyundai",
+          "brandIconName": "Hyundai",
+          "brandLogoUrl": "/assets/vehicle-brands/hyundai-logo.png"
+        },
+        {
+          "order": 3,
+          "id": "3",
+          "brandName": "Tata Motors",
+          "brandIconName": "Tata",
+          "brandLogoUrl": "/assets/vehicle-brands/tatamotorslogo.png"
+        },
+        {
+          "order": 4,
+          "id": "4",
+          "brandName": "Mahindra",
+          "brandIconName": "Mahindra",
+          "brandLogoUrl": "/assets/vehicle-brands/Mahindra.png"
+        },
+        {
+          "order": 5,
+          "id": "5",
+          "brandName": "Toyota",
+          "brandIconName": "Toyota",
+          "brandLogoUrl": "/assets/vehicle-brands/Toyotalogo.png"
+        },
+        {
+          "order": 6,
+          "id": "6",
+          "brandName": "Kia",
+          "brandIconName": "Kia",
+          "brandLogoUrl": "/assets/vehicle-brands/Kialogo.png"
+        },
+        {
+          "order": 7,
+          "id": "7",
+          "brandName": "Honda",
+          "brandIconName": "Honda",
+          "brandLogoUrl": "/assets/vehicle-brands/Hondalogo.png"
+        },
+        {
+          "order": 8,
+          "id": "8",
+          "brandName": "MG Motors",
+          "brandIconName": "MG",
+          "brandLogoUrl": "/assets/vehicle-brands/MGMotorlogo.png"
+        }
+      ],
+      "popularBrands2W": [
+        {
+          "order": 1,
+          "id": "1",
+          "brandName": "Hero MotoCorp",
+          "brandIconName": "Hero",
+          "brandLogoUrl": "/assets/vehicle-brands/Hero-MotoCorp-Logo.png"
+        },
+        {
+          "order": 2,
+          "id": "2",
+          "brandName": "Honda",
+          "brandIconName": "Honda",
+          "brandLogoUrl": "/assets/vehicle-brands/Hondalogo.png"
+        },
+        {
+          "order": 3,
+          "id": "3",
+          "brandName": "Bajaj",
+          "brandIconName": "Bajaj",
+          "brandLogoUrl": "/assets/vehicle-brands/Bajaj-Logo.png"
+        },
+        {
+          "order": 4,
+          "id": "4",
+          "brandName": "TVS",
+          "brandIconName": "TVS",
+          "brandLogoUrl": "/assets/vehicle-brands/TVS-Motor-Company.png"
+        },
+        {
+          "order": 5,
+          "id": "5",
+          "brandName": "Royal Enfield",
+          "brandIconName": "RoyalEnfield",
+          "brandLogoUrl": "/assets/vehicle-brands/royal-enfeild.png"
+        },
+        {
+          "order": 6,
+          "id": "6",
+          "brandName": "Yamaha",
+          "brandIconName": "Yamaha",
+          "brandLogoUrl": "/assets/vehicle-brands/Yamaha-Logo.png"
+        },
+        {
+          "order": 7,
+          "id": "7",
+          "brandName": "Suzuki",
+          "brandIconName": "Suzuki",
+          "brandLogoUrl": "/assets/vehicle-brands/Suzuki.png"
+        },
+        {
+          "order": 8,
+          "id": "8",
+          "brandName": "KTM",
+          "brandIconName": "KTM",
+          "brandLogoUrl": "/assets/vehicle-brands/ktm.png"
+        }
+      ]
+    },
+    "captureVehicleModel": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting a car model"
+    },
+    "captureVehicleFuel": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting fuel type"
+    },
+    "captureVehicleVariant": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting a car variant"
+    },
+    "captureRegistrationYear": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting registration year",
+      "minYear": 2000,
+      "maxYear": 2026,
+      "yearsPerPage": 16
+    },
+    "captureRegistrationRTO": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "helpAriaLabel": "Get help with selecting registration RTO",
+      "searchPlaceholder": "Search RTO location"
+    },
+    "captureRegistrationPincode": {
+      "order": 1,
+      "title": "{VehicleType} insurance",
+      "submitButtonText": "Continue",
+      "heading": "Enter your residential pincode",
+      "helpAriaLabel": "Get help with entering registration pincode",
+      "inputLabel": "Pincode",
+      "inputPlaceholder": "Enter pincode",
+      "invalidPincodeMessage": "Enter a valid 6-digit pincode"
+    },
+    "buy": {
+      "captureVehicleExpiry": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Policy Details",
+            "submitButtonText": "Continue",
+            "helpAriaLabel": "Get help with vehicle policy details",
+            "questions": {
+              "policyExpired": {
+                "id": "policy-expired-question",
+                "question": "Has your policy expired?",
+                "options": [
+                  { "order": 1, "label": "Yes", "value": "yes" },
+                  { "order": 2, "label": "No", "value": "no" }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "captureOwnDamagePolicyExpired": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Car insurance",
+            "submitButtonText": "Continue",
+            "helpAriaLabel": "Get help with own damage policy details",
+            "questions": {
+              "ownDamagePolicyExpired": {
+                "id": "own-damage-policy-expired-question",
+                "question": "Has your own damage policy expired?",
+                "subtext": "Your policy may be expired. Accurate information means better cover and quicker claims.",
+                "options": [
+                  { "order": 1, "label": "Yes", "value": "yes" },
+                  { "order": 2, "label": "No", "value": "no" }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "captureOwnDamageDate": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Car insurance",
+            "submitButtonText": "Confirm",
+            "helpAriaLabel": "Get help with own damage policy expiry date",
+            "infoBannerMessage": "Verify expiry date to keep your policy active",
+            "infoBannerIcon": "white-alert-rhombus",
+            "questionText": "What is your Own Damage policy expiry date?",
+            "dateInputLabel": "DD/MM/YYYY",
+            "dateInputPlaceholder": "DD/MM/YYYY",
+            "defaultLogoUrl": "/assets/landing/motor-policy-icon.png"
+          }
+        ]
+      },
+      "captureVehicleClaim": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Claim History",
+            "submitButtonText": "Continue",
+            "helpAriaLabel": "Get help with vehicle claim history",
+            "questions": {
+              "previousClaim": {
+                "id": "previousclaim-question",
+                "question": "Have you made a claim in the previous year?",
+                "options": [
+                  { "order": 1, "label": "Yes", "value": "yes" },
+                  { "order": 2, "label": "No", "value": "no" }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "noClaimBonus": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Car insurance",
+            "submitButtonText": "Check price",
+            "helpAriaLabel": "Get help with no claim bonus",
+            "infoTooltipLabel": "No Claim Bonus (NCB) is a discount offered by insurers for not making claims.",
+            "showInfoBanner": true,
+            "infoBannerMessage": "If you select the wrong NCB, the discount amount will be adjusted during claims",
+            "noClaimBonusOptions": [
+              {
+                "order": 1,
+                "id": "ncb-0",
+                "label": "0%",
+                "description": "First time buyer or made a claim"
+              },
+              {
+                "order": 2,
+                "id": "ncb-20",
+                "label": "20%",
+                "description": "No claims in last 1 year"
+              },
+              {
+                "order": 3,
+                "id": "ncb-25",
+                "label": "25%",
+                "description": "No claims in last 2 years"
+              },
+              {
+                "order": 4,
+                "id": "ncb-35",
+                "label": "35%",
+                "description": "No claims in last 3 years"
+              },
+              {
+                "order": 5,
+                "id": "ncb-45",
+                "label": "45%",
+                "description": "No claims in last 4 years"
+              },
+              {
+                "order": 6,
+                "id": "ncb-50",
+                "label": "50%",
+                "description": "No claims in last 5+ years"
+              }
+            ]
+          }
+        ]
+      },
+      "capturePolicyTypeDetails": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Select Policy Type",
+            "submitButtonText": "Continue",
+            "helpAriaLabel": "Get help with selecting policy type",
+            "headerTitle": "What was your previous policy's plan type?",
+            "planData": {
+              "comprehensive": {
+                "label": "Comprehensive cover",
+                "benefits": [
+                  "Covers Damage to your vehicle",
+                  "Covers Damages caused by your Vehicle to any Third-Party",
+                  "Cashless claims at 9000+ garages"
+                ]
+              },
+              "thirdParty": {
+                "label": "Third-party",
+                "benefits": [
+                  "Only covers damages to third-party vehicles",
+                  "Protects you from third-party liabilities"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "capturePolicyClaimDetails": {
+        "enabled": true,
+        "content": [
+          {
+            "order": 1,
+            "title": "Policy Expiry Details",
+            "submitButtonText": "Continue",
+            "helpAriaLabel": "Get help with policy expiry details",
+            "questions": {
+              "policyExpiredOver90Days": {
+                "id": "policy-expired-over-90-days-question",
+                "question": "Has your policy expired for more than 90 days?",
+                "subtext": "Your policy may be expired, Accurate information will help us fetch the right quote",
+                "options": [
+                  { "order": 1, "label": "Yes", "value": "yes" },
+                  { "order": 2, "label": "No", "value": "no" }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "kyc": {
+      "captureCkycSuccess": {
+        "enabled": true,
+        "content": {
+          "order": 1,
+          "title": "KYC Verification",
+          "submitButtonText": "Continue",
+          "helpAriaLabel": "Get help with KYC verification",
+          "successHeading": "Your CKYC is successful!",
+          "successSubtext": "Your identity has been verified successfully."
+        }
+      },
+      "captureKycFailed": {
+        "enabled": true,
+        "content": {
+          "order": 1,
+          "title": "KYC Verification",
+          "uploadButtonText": "Upload documents manually",
+          "retryButtonText": "Retry",
+          "helpAriaLabel": "Get help with KYC",
+          "failureHeading": "CKYC validation failed",
+          "failureSubtext": "We could not verify your identity via CKYC.",
+          "contactSheetTitle": "Need help?",
+          "contactSheetSubtext": "Please contact your insurer for assistance with KYC verification."
+        }
+      },
+      "collectAddressProof": {
+        "enabled": true,
+        "content": {
+          "order": 1,
+          "title": "Upload Documents",
+          "submitButtonText": "Continue",
+          "helpAriaLabel": "Get help with document upload",
+          "pageHeading": "KYC Verification",
+          "pageSubtext": "Please upload your KYC document to complete verification.",
+          "documentTypeLabel": "Select document type",
+          "acceptedFormatsText": "Accepted formats: PDF, JPG, PNG (max 5 MB per file)",
+          "aadhaarLabel": "Aadhaar Card",
+          "passportLabel": "Passport",
+          "drivingLicenseLabel": "Driving License",
+          "aadhaarUploadHeader": "Aadhaar verification",
+          "aadhaarUploadSubtext": "Please upload the front and back of your Aadhaar.",
+          "passportUploadHeader": "Passport verification",
+          "passportUploadSubtext": "Please upload the front and back of your Passport.",
+          "passportNumberLabel": "Passport Number",
+          "passportNumberPlaceholder": "Enter passport number",
+          "passportExpiryLabel": "Passport Expiry",
+          "passportExpiryPlaceholder": "DD/MM/YYYY",
+          "dlUploadHeader": "Driving license verification",
+          "dlUploadSubtext": "Please upload the front and back of your Driving License.",
+          "frontUploadLabel": "Front",
+          "backUploadLabel": "Back",
+          "uploadPromptText": "Upload",
+          "errorUnsupportedFormat": "Unsupported format (Use PDF/JPG/PNG only)",
+          "errorFileTooLarge": "File too large (File is over 5 MB)",
+          "errorUploadFailed": "Something went wrong",
+          "kycFailedHeading": "CKYC validation failed",
+          "kycFailedSubtext": "We couldn't verify your documents.\nYou can recheck and submit them again.",
+          "kycFailedTryAgainText": "Try Again"
+        }
+      },
+      "captureAddressDetails": {
+        "enabled": true,
+        "content": {
+          "order": 1,
+          "title": "Address details",
+          "submitButtonText": "Continue",
+          "helpAriaLabel": "Get help with address details"
+        }
+      }
+    }
+  }
+}

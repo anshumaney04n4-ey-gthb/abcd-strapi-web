@@ -1,0 +1,206 @@
+{
+  "data": {
+    "subProduct": "gold",
+    "partner": "default",
+    "sectionTitleComparison": "Compare Investment Options",
+    "sectionSubtitleVideos": "Learn from Expert Videos",
+    "sectionTitleReferral": "Refer a Friend & Earn",
+    "livePriceDisclaimer": "Prices updated every 30 seconds",
+    "footerReferenceHeading": "Offered by",
+    "footerReferenceName": "ABCD Bank",
+    "footerReferenceCertification": "ISO 27001:2013 certified. Your data is secure with us.",
+    "heroImagePath": "/assets/images/hero-bg.png",
+    "patternImagePath": "/assets/images/pattern.png",
+    "maskImagePath": "/assets/images/mask.png",
+    "transactionsEmptyImagePath": "/assets/images/no-transactions.png",
+    "mmtcLogoPath": "/assets/images/mmtc-logo.png",
+    "footerBarsImagePath": "/assets/images/footer-pattern.png",
+    "headerLogoAlt": "ABCD Logo",
+    "footerLogoAlt": "ABCD Logo",
+    "actionCards": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "cardId": "apply-loan",
+          "title": "Apply for Loan",
+          "subtitle": "Quick approval and disbursal"
+        },
+        {
+          "order": 2,
+          "cardId": "my-loans",
+          "title": "My Loans",
+          "subtitle": "View all your loans"
+        },
+        {
+          "order": 3,
+          "cardId": "repayment",
+          "title": "Repayment",
+          "subtitle": "Easy repayment options"
+        }
+      ]
+    },
+    "comparisonColumns": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "columnId": "col-1",
+          "title": "Basic Loan",
+          "isHighlighted": false
+        },
+        {
+          "order": 2,
+          "columnId": "col-2",
+          "title": "Standard Loan",
+          "isHighlighted": true
+        },
+        {
+          "order": 3,
+          "columnId": "col-3",
+          "title": "Premium Loan",
+          "isHighlighted": false
+        }
+      ]
+    },
+    "comparisonRows": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "rowId": "row-1",
+          "label": "Loan Amount",
+          "values": [
+            "₹50,000",
+            "₹2 Lakh",
+            "₹5 Lakh"
+          ]
+        },
+        {
+          "order": 2,
+          "rowId": "row-2",
+          "label": "Interest Rate",
+          "values": [
+            "12%",
+            "10%",
+            "8.5%"
+          ]
+        },
+        {
+          "order": 3,
+          "rowId": "row-3",
+          "label": "Tenure",
+          "values": [
+            "12 months",
+            "24 months",
+            "36 months"
+          ]
+        }
+      ]
+    },
+    "footerFeatures": {
+      "enabled": true,
+      "content": [
+        {
+          "text": "Instant Disbursal",
+          "order": 1
+        },
+        {
+          "text": "Low Interest Rates",
+          "order": 2
+        },
+        {
+          "text": "Flexible Repayment",
+          "order": 3
+        },
+        {
+          "text": "Secure Process",
+          "order": 4
+        }
+      ]
+    },
+    "sidebarFAQs": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "faqId": "faq-1",
+          "title": "What is the minimum loan amount?",
+          "content": "Minimum loan amount is ₹50,000."
+        },
+        {
+          "order": 2,
+          "faqId": "faq-2",
+          "title": "How long does approval take?",
+          "content": "Approval typically takes 24-48 hours."
+        },
+        {
+          "order": 3,
+          "faqId": "faq-3",
+          "title": "What documents are required?",
+          "content": "ID proof, address proof, and income documents."
+        }
+      ]
+    },
+    "videos": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "videoId": "video-1",
+          "title": "Loan Application Process",
+          "thumbnail": null,
+          "videoUrl": "https://example.com/video1"
+        },
+        {
+          "order": 2,
+          "videoId": "video-2",
+          "title": "Understanding Interest Rates",
+          "thumbnail": null,
+          "videoUrl": "https://example.com/video2"
+        }
+      ]
+    },
+    "promoBanners": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "backgroundColor": "#4CAF50",
+          "title": "Special Offer",
+          "highlightedText": "50% off",
+          "subtitle": "Get 50% off on processing fee",
+          "ctaText": "Apply Now"
+        }
+      ]
+    },
+    "keyHighlightsConfig": {
+      "holdingsLabel": "Your Loans",
+      "badgeText": "Active",
+      "title": "Why Choose Us",
+      "ctaText": "View Details"
+    },
+    "transactionsEmptyStateConfig": {
+      "ctaText": "Apply Now",
+      "bannerHighlight": "No Active Loans",
+      "bannerDescription": "Your loan details will appear here once you apply"
+    },
+    "referralBannerAssets": {
+      "treasureChestPath": "/assets/images/referral-treasure.png",
+      "goldCoinPath": "/assets/images/referral-coin.png",
+      "chevronPath": "/assets/images/chevron-right.png"
+    },
+    "userSidebarAssets": {
+      "iconProfilePath": "/assets/icons/profile.svg",
+      "iconInfoPath": "/assets/icons/info.svg",
+      "iconLogoutPath": "/assets/icons/logout.svg",
+      "logoFooterPath": "/assets/logo-footer.png",
+      "logoutIllustrationPath": "/assets/images/logout-illustration.png",
+      "otpIllustrationPath": "/assets/images/otp-illustration.png"
+    },
+    "globalDisclaimer": {
+      "anchorText": "Disclaimer",
+      "content": "Loan offers are subject to eligibility and lender policies. Interest rates may vary."
+    }
+  }
+}

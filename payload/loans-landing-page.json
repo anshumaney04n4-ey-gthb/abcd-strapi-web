@@ -1,0 +1,283 @@
+{
+  "data": {
+    "subProduct": "personal",
+    "partner": "default",
+    "header": {
+      "logo": {
+        "src": "/logos/lob/abcd.svg",
+        "alt": "ABCD Logo",
+        "size": 40
+      },
+      "mobileHeaderLogo": "/logos/lob/abcd.svg"
+    },
+    "hero": {
+      "title": "Easy and Hassle-Free Gold Loans",
+      "priceLabel": "starting at just",
+      "priceValue": "₹ 3,000 +",
+      "description": "Multiple Trusted Lenders, 24-Hour Disbursal, 13,000+ Pincodes servicability.",
+      "descriptionHighlight": "24-Hour",
+      "image": "/assets/landing/pl-herosection-bag.png",
+      "imageAlt": "Gold Loan Hero",
+      "partnerLogos": [
+        { "src": "/assets/vehicle-insurance/dashboard/icic.svg", "alt": "Muthoot Finance" },
+        { "src": "/assets/vehicle-insurance/dashboard/icic.svg", "alt": "IIFL Finance" }
+      ],
+      "productHighlighters": [
+        { "text": "Instant disbursal", "showIcon": true },
+        { "text": "100%", "showIcon": false }
+      ],
+      "backgroundGradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "showSeparator": true
+    },
+    "widget": {
+      "headerTitle": "Avail Gold Loan",
+      "headerBackgroundColor": "#7c2279",
+      "title": "Enter your details to get started",
+      "mobileInputPlaceholder": "Enter mobile number",
+      "helperText": "OTP will be sent to your mobile number",
+      "consentConfig": {
+        "label": "I agree with",
+        "termsText": "Terms & Conditions",
+        "termsUrl": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+        "privacyText": "Privacy Policy",
+        "privacyUrl": "https://www.adityabirlacapital.com/abcd/privacy-policy"
+      },
+      "ctaConfig": {
+        "buttonText": "Apply for Gold Loan",
+        "trustText": "Join 1L+ investors trusting ABCD for Gold Loans",
+        "loadingText": "Processing..."
+      }
+    },
+    "smartFeatures": {
+      "title": "Smart Features. Real Impact.",
+      "autoScroll": true,
+      "autoScrollInterval": 5000,
+      "items": [
+        {
+          "variant": "gifting",
+          "number": "01",
+          "title": "High Loan to Value",
+          "subtitle": "Up to 85% LTV",
+          "description": "Get up to 85% of your gold's value as loan",
+          "ctaText": "Apply Now",
+          "backgroundColor": "#FFF8E7",
+          "backgroundImage": "/assets/landing/pl-instant-offer-bg.png",
+          "order": 1,
+          "notificationContent": null
+        },
+        {
+          "variant": "gifting",
+          "number": "02",
+          "title": "Quick Disbursal",
+          "subtitle": "24-hour disbursal",
+          "description": "Get your loan disbursed within 24 hours of approval",
+          "ctaText": "Apply Now",
+          "backgroundColor": "#FFF8E7",
+          "backgroundImage": "/assets/landing/pl-instant-offer-bg.png",
+          "order": 2,
+          "notificationContent": null
+        },
+        {
+          "variant": "gifting",
+          "number": "03",
+          "title": "Secure Storage",
+          "subtitle": "Safe vault storage",
+          "description": "Your gold is stored in secure bank-grade vaults with insurance",
+          "ctaText": "Apply Now",
+          "backgroundColor": "#FFF8E7",
+          "backgroundImage": "/assets/landing/pl-instant-offer-bg.png",
+          "order": 3,
+          "notificationContent": null
+        },
+        {
+          "variant": "gifting",
+          "number": "04",
+          "title": "No Credit Score Required",
+          "subtitle": "Gold-backed loan",
+          "description": "Gold loans are primarily secured against your gold, not credit score",
+          "ctaText": "Apply Now",
+          "backgroundColor": "#FFF8E7",
+          "backgroundImage": "/assets/landing/pl-instant-offer-bg.png",
+          "order": 4,
+          "notificationContent": null
+        }
+      ]
+    },
+    "steps": {
+      "tagline": "Gold Loan",
+      "heading": "Get Your Loan in 3 Easy Steps",
+      "items": [
+        {
+          "number": "1",
+          "title": "Apply Online",
+          "description": "Enter your details on our website or app and select your preferred lender",
+          "icon": "/assets/landing/document-11.svg",
+          "iconUrl": "/assets/landing/document-11.svg",
+          "iconAlt": "Document icon"
+        },
+        {
+          "number": "2",
+          "title": "Verification",
+          "description": "Our team verifies your documents and conducts gold valuation",
+          "icon": "/assets/landing/document-11.svg",
+          "iconUrl": "/assets/landing/document-11.svg",
+          "iconAlt": "Document icon"
+        },
+        {
+          "number": "3",
+          "title": "Disbursal",
+          "description": "Loan approved and funds credited to your account",
+          "icon": "/assets/landing/document-11.svg",
+          "iconUrl": "/assets/landing/document-11.svg",
+          "iconAlt": "Document icon"
+        }
+      ]
+    },
+    "eligibility": {
+      "title": "Gold Loan Eligibility",
+      "items": [
+        { "label": "Nationality", "value": "Must be an Indian Citizen", "alternateValueBackground": false },
+        { "label": "Age", "value": "21-65 years", "alternateValueBackground": true },
+        { "label": "Gold Purity", "value": "18 karats and above", "alternateValueBackground": false },
+        { "label": "Gold Type", "value": "Jewellery, coins, bars", "alternateValueBackground": true }
+      ]
+    },
+    "rates": {
+      "title": "Rates & Charges",
+      "items": [
+        {
+          "icon": "/assets/landing/rate-pl-loan.svg",
+          "title": "Minimum Loan Amount",
+          "value": "₹3,000 onwards",
+          "description": "Start with as low as ₹3,000",
+          "badge": ""
+        },
+        {
+          "icon": "/assets/landing/rate-pl-loan.svg",
+          "title": "Maximum Loan Amount",
+          "value": "₹1 Crore",
+          "description": "Up to ₹1 Crore based on gold value",
+          "badge": ""
+        },
+        {
+          "icon": "/assets/landing/rate-pl-loan.svg",
+          "title": "Starting ROI",
+          "value": "0.79% p.m",
+          "description": "Interest rates starting from 0.79% per month",
+          "badge": ""
+        },
+        {
+          "icon": "/assets/landing/rate-pl-loan.svg",
+          "title": "Processing Fee",
+          "value": "Nil",
+          "description": "Zero processing fee with select lenders",
+          "badge": ""
+        }
+      ]
+    },
+    "simpleSection": {
+      "heading": "Personal Loans Made Simple, Fast & Transparent",
+      "highlightWord": "Simple",
+      "benefits": [
+        {
+          "icon": "speed",
+          "title": "Instant Approval",
+          "description": "Get loan approval in minutes with our AI-powered assessment engine"
+        },
+        {
+          "icon": "speed",
+          "title": "Multiple Lenders",
+          "description": "Compare offers from 13,000+ pincodes and choose the best"
+        },
+        {
+          "icon": "speed",
+          "title": "Transparent Process",
+          "description": "No hidden charges, complete transparency in terms"
+        },
+        {
+          "icon": "speed",
+          "title": "24/7 Support",
+          "description": "Round the clock customer support for all your queries"
+        }
+      ]
+    },
+    "partners": {
+      "title": "Trusted Lending Partners",
+      "subtitle": "Quick approvals. Secure gold loans made simple.",
+      "items": [
+        { "src": "/assets/vehicle-insurance/dashboard/icic.svg", "alt": "IIFL Finance" },
+        { "src": "/assets/vehicle-insurance/dashboard/icic.svg", "alt": "Muthoot Fincorp" },
+        { "src": "/assets/vehicle-insurance/dashboard/icic.svg", "alt": "Rupeek" }
+      ],
+      "fallbackLogoSrc": ""
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "defaultOpenIds": ["pl-faq-1"],
+      "items": [
+        { "question": "What is the minimum gold purity required?", "answer": "We accept gold jewelry and ornaments with minimum 18 karats purity." },
+        { "question": "How long does the loan approval take?", "answer": "Once documents are verified and gold is valued, loan is disbursed within 24 hours." },
+        { "question": "What documents are required?", "answer": "You need ID proof (Aadhaar/Voter ID/Passport), address proof, and gold ornaments." },
+        { "question": "Is my gold safe?", "answer": "Yes, your gold is stored in secure bank-grade vaults with insurance coverage." },
+        { "question": "Who is eligible for a gold loan?", "answer": "Indian citizens aged 21-65 years with gold ornaments of 18 karats and above." },
+        { "question": "Can I apply if I have no credit score?", "answer": "Yes, gold loans are primarily secured against your gold, not credit score." },
+        { "question": "What are the repayment options?", "answer": "You can repay through online transfer, cheque, or cash at our branches." },
+        { "question": "Can I prepay my loan?", "answer": "Yes, you can prepay with minimal or no foreclosure charges." }
+      ]
+    },
+    "appPromo": {
+      "appLabel": "The ABCD app",
+      "title": "Everything Finance\nas simple as\nABCD",
+      "mobileTitle": "Everything Finance as simple as ABCD",
+      "subtitle": "Download the ABCD app and start doing more with your money everyday",
+      "mobileSubtitle": "Download the ABCD app today",
+      "fromLabel": "From the house of",
+      "houseLogoSrc": "/assets/vehicle-insurance/abcd-logo.png",
+      "houseLogoAlt": "ABCD Logo",
+      "qrSrc": "/assets/vehicle-insurance/qr-code.png",
+      "qrAlt": "QR Code to download ABCD app",
+      "phoneImageSrc": "/assets/gold-loan/gl-finanace.png",
+      "phoneImageAlt": "ABCD app showing personal loans",
+      "ctaButtons": [
+        { "label": "Download on App Store", "link": "https://apps.apple.com", "iconSrc": "/assets/mobile-nav/apple.svg", "iconAlt": "App Store" },
+        { "label": "Get it on Google Play", "link": "https://play.google.com", "iconSrc": "/assets/mobile-nav/apple.svg", "iconAlt": "Google Play" }
+      ],
+      "ctaVisibility": "all",
+      "companyInfoLayout": "column"
+    },
+    "footer": {
+      "referenceDetails": {
+        "heading": "Powered by",
+        "name": "ABCD",
+        "logo": "/assets/landing/Grouping.svg",
+        "certification": "RBI Registered NBFC"
+      },
+      "sideLogoDetails": {
+        "image": "/assets/landing/pl-footer-money.png",
+        "alt": "ABCD Footer"
+      },
+      "features": [
+        { "text": "Get Instant Offer" },
+        { "text": "24/7 Customer Support" },
+        { "text": "Secure & Safe" },
+        { "text": "Best Interest Rates" }
+      ]
+    },
+    "mobileNavigation": {
+      "tabs": [],
+      "footerBanner": {
+        "text": "Download the app",
+        "appStoreButton": {
+          "icon": "apple",
+          "label": "App Store",
+          "url": "https://apps.apple.com"
+        },
+        "playStoreButton": {
+          "icon": "apple",
+          "label": "Google Play",
+          "url": "https://play.google.com"
+        }
+      }
+    }
+  }
+}

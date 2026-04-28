@@ -1,0 +1,186 @@
+{
+  "data": {
+    "subProduct": "motor",
+    "partner": "default",
+    "aiPoweredBadgeJourneyEnabled": true,
+    "actionCards": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "id": "car",
+          "title": "Car insurance",
+          "subtitle": "Starts at just ₹1,999",
+          "image": "${LANDING_ASSETS}/dashboard/insuranceCar.svg",
+          "type": "car"
+        },
+        {
+          "order": 2,
+          "id": "bike",
+          "title": "Bike insurance",
+          "subtitle": "Starts at just ₹999",
+          "image": "${LANDING_ASSETS}/dashboard/insuranceBike.svg",
+          "type": "bike"
+        }
+      ]
+    },
+    "exploreItems": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "id": "renew-policy",
+          "title": "Renew instantly - Upload your policy",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-motor-insurance.png",
+          "isExternal": true
+        },
+        {
+          "order": 2,
+          "id": "policies",
+          "title": "My Policies",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-pocket-insurance.png",
+          "isExternal": true
+        },
+        {
+          "order": 3,
+          "id": "track-insurance",
+          "title": "Track insurance, challans, & more, all in one place.",
+          "icon": "${LANDING_ASSETS}/mobile-nav/icon-vehicle-track.png",
+          "isExternal": true
+        }
+      ]
+    },
+    "sidebarFAQs": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "id": "why-motor-insurance",
+          "title": "Why Motor Insurance?",
+          "icon": "${LANDING_ASSETS}/dashboard/car-icon.svg",
+          "description": "Motor insurance is mandatory by law and protects you financially against accidents, theft, and third-party liabilities.",
+          "isExternal": false
+        },
+        {
+          "order": 2,
+          "id": "how-it-works",
+          "title": "How Motor Insurance at ABCD works?",
+          "icon": "${LANDING_ASSETS}/dashboard/faq-car-icon.png",
+          "description": "Choose your vehicle type, compare plans, and complete your purchase online. Policy issuance is quick and support is available throughout.",
+          "isExternal": false
+        },
+        {
+          "order": 3,
+          "id": "other-questions",
+          "title": "Other questions?",
+          "icon": "",
+          "description": "",
+          "isExternal": true,
+          "externalUrl": "https://help.abcd.com/motor-insurance"
+        }
+      ]
+    },
+    "partners": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "id": "icici",
+          "src": "${LANDING_ASSETS}/dashboard/icic.svg",
+          "alt": "ICICI Insurance"
+        },
+        {
+          "order": 2,
+          "id": "acko",
+          "src": "${LANDING_ASSETS}/dashboard/acko.svg",
+          "alt": "Acko Insurance"
+        },
+        {
+          "order": 3,
+          "id": "digit",
+          "src": "${LANDING_ASSETS}/dashboard/digit.svg",
+          "alt": "Digit Insurance"
+        },
+        {
+          "order": 4,
+          "id": "tata",
+          "src": "${LANDING_ASSETS}/dashboard/tata.svg",
+          "alt": "Tata Insurance"
+        },
+        {
+          "order": 5,
+          "id": "bajaj",
+          "src": "${LANDING_ASSETS}/dashboard/general.svg",
+          "alt": "Bajaj Insurance"
+        }
+      ]
+    },
+    "partnerTrustItems": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "icon": "${LANDING_ASSETS}/dashboard/trust.svg",
+          "text": "Trusted by\n2K+ users"
+        },
+        {
+          "order": 2,
+          "icon": "${LANDING_ASSETS}/dashboard/bolt.svg",
+          "text": "Get instant policy\nin 3 mins"
+        },
+        {
+          "order": 3,
+          "icon": "${LANDING_ASSETS}/dashboard/agent.svg",
+          "text": "Easy claim\nassistance"
+        }
+      ]
+    },
+    "crossSell": {
+      "enabled": true,
+      "content": {
+        "title": "Checked your challans yet?",
+        "subtitle": "Stay on top of your pending challans and PUC expiry",
+        "price": "0",
+        "buttonText": "Activate now",
+        "carImageSrc": "${LANDING_ASSETS}/landing/motorAccidentLogo.png"
+      }
+    },
+    "keyHighlights": {
+      "enabled": true,
+      "content": [
+        {
+          "order": 1,
+          "vehicleType": "4W",
+          "badgeText": "Join 2K+ users trusting ABCD for Motor Insurance.",
+          "title": "Get car insurance now!",
+          "ctaText": "Apply now",
+          "heroImage": "${LANDING_ASSETS}/landing/motor/carIcon.png",
+          "highlights": [
+            {
+              "id": "car-1",
+              "text": "Unlock a special price on your car insurance"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "vehicleType": "2W",
+          "badgeText": "Join 2K+ users trusting ABCD for Motor Insurance.",
+          "title": "Get bike insurance now!",
+          "ctaText": "Apply now",
+          "heroImage": "${LANDING_ASSETS}/landing/motor/bikeIcon.png",
+          "highlights": [
+            {
+              "id": "bike-1",
+              "text": "Unlock a special price on your bike insurance"
+            }
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "content": []
+    }
+  }
+}

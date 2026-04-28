@@ -1,0 +1,230 @@
+{
+  "data": {
+    "subProduct": "credit",
+    "partner": "default",
+    "headerLogoAlt": "ABCD Logo",
+    "heroCarouselAutoPlay": true,
+    "heroCarouselAutoPlayInterval": 5000,
+    "heroCarouselShowArrows": true,
+    "heroCarouselShowIndicators": true,
+    "heroCarouselIndicatorStyle": "bars",
+    "heroBackgroundVariant": "light",
+    "heroShowSeparator": true,
+    "poweredByAlt": "Credilio",
+    "poweredByShieldIcon": null,
+    "widgetHeaderBadgeText": "Join 50L+ customers",
+    "widgetTitle": "Apply for Credit Card",
+    "widgetMobileInputPlaceholder": "Enter Mobile Number",
+    "widgetConsentLabel": "I agree to the Terms & Conditions...",
+    "widgetTermsText": "Terms & Conditions",
+    "widgetTermsUrl": "/terms",
+    "widgetPrivacyText": "Privacy Policy",
+    "widgetPrivacyUrl": "/privacy",
+    "widgetCtaText": "Get Started",
+    "widgetMobileHelperText": "OTP will be sent to verify your mobile number",
+    "widgetHeaderBadgeIcon": "/icons/medal-badge.svg",
+    "smartFeaturesTitle": "Smart Features. Real Impact.",
+    "smartFeaturesAutoScroll": true,
+    "smartFeaturesAutoScrollInterval": 4000,
+    "smartFeaturesPauseOnHover": false,
+    "smartFeaturesShowDots": false,
+    "smartFeaturesCards": [
+      {
+        "stepNumber": "01",
+        "heading": "Personalised Recommendations",
+        "description": "Get card suggestions tailored to your spending habits and financial profile",
+        "ctaLabel": "Apply now",
+        "floatingLabels": [],
+        "order": 1
+      },
+      {
+        "stepNumber": "02",
+        "heading": "Instant Approval",
+        "description": "Get approved within minutes with our quick verification process",
+        "ctaLabel": "Learn more",
+        "floatingLabels": [],
+        "order": 2
+      },
+      {
+        "stepNumber": "03",
+        "heading": "Zero Documentation",
+        "description": "Complete your application digitally without any paperwork",
+        "ctaLabel": "Apply now",
+        "floatingLabels": [],
+        "order": 3
+      },
+      {
+        "stepNumber": "04",
+        "heading": "Free Insurance Cover",
+        "description": "Enjoy complimentary air accidental insurance with your card",
+        "ctaLabel": "Know more",
+        "floatingLabels": [],
+        "order": 4
+      }
+    ],
+    "offeringsTitle": "Our Offerings",
+    "offeringsItems": [
+      {
+        "heading": "Eligibility-Based Selection",
+        "description": "View cards you're most likely to get approved for based on your profile",
+        "order": 1
+      },
+      {
+        "heading": "Rewards & Cashback",
+        "description": "Earn reward points on every transaction with accelerated earning rates",
+        "order": 2
+      },
+      {
+        "heading": "Fuel Surcharge Waiver",
+        "description": "Save on fuel expenses with unlimited surcharge waiver at fuel stations",
+        "order": 3
+      },
+      {
+        "heading": "Travel Benefits",
+        "description": "Complimentary airport lounge access and travel insurance",
+        "order": 4
+      },
+      {
+        "heading": "Easy EMIs",
+        "description": "Convert big purchases to EMIs with low interest rates",
+        "order": 5
+      },
+      {
+        "heading": "Contactless Payments",
+        "description": "Fast and secure contactless payments for transactions up to ₹5000",
+        "order": 6
+      }
+    ],
+    "ownACreditCardTitle": "Own a credit card in just",
+    "ownACreditCardHighlightedTitle": "4 steps",
+    "ownACreditCardSteps": [
+      {
+        "title": "Tell us about yourself",
+        "description": "Sign in with your mobile number and share basic details",
+        "order": 1
+      },
+      {
+        "title": "Pick your perfect card",
+        "description": "Browse and compare cards to find the one that fits your needs",
+        "order": 2
+      },
+      {
+        "title": "Quick verification",
+        "description": "Complete OTP verification and submit minimal documents",
+        "order": 3
+      },
+      {
+        "title": "Start earning rewards",
+        "description": "Get your virtual card instantly and start transacting",
+        "order": 4
+      }
+    ],
+    "faqTitle": "Frequently Asked Questions",
+    "faqAllowMultiple": false,
+    "faqItems": [
+      {
+        "question": "What is the Credit Card journey process?",
+        "answer": "Our credit card application process is 100% digital. Simply enter your mobile number, verify with OTP, select a card that suits your needs, and complete the verification process. You can track your application status in real-time.",
+        "order": 1
+      },
+      {
+        "question": "What documents are required?",
+        "answer": "For most cards, you only need your PAN card and Aadhaar-linked mobile number. Some premium cards may require additional income proof documents.",
+        "order": 2
+      },
+      {
+        "question": "How long does approval take?",
+        "answer": "Most applications are approved instantly. In some cases, additional verification may take 24-48 hours. You'll receive SMS updates on your application status.",
+        "order": 3
+      },
+      {
+        "question": "What is the minimum income requirement?",
+        "answer": "Income requirements vary by card. Basic cards start from ₹10,000 monthly income, while premium cards may require ₹1 lakh or more. We show you cards you're most likely to qualify for.",
+        "order": 4
+      },
+      {
+        "question": "Can I have multiple credit cards?",
+        "answer": "Yes, you can hold multiple credit cards. However, ensure you can manage repayments across all cards to maintain a healthy credit score.",
+        "order": 5
+      }
+    ],
+    "appPromoBannerAppLabel": "The ABCD app",
+    "appPromoBannerTitle": "Apply for credit cards on the go",
+    "appPromoBannerMobileTitle": "Download ABCD App",
+    "appPromoBannerSubtitle": "Get instant approvals, exclusive deals, and track your applications anywhere",
+    "appPromoBannerMobileSubtitle": "Download the app now",
+    "appPromoBannerFromLabel": "From the house of",
+    "appPromoBannerHouseLogoAlt": "ABCD Group Logo",
+    "appPromoBannerQrAlt": "Scan to download ABCD app",
+    "appPromoBannerPhoneImageAlt": "ABCD app preview on phone",
+    "appPromoBannerCtaVisibility": "all",
+    "appPromoBannerCompanyInfoLayout": "row",
+    "appPromoBannerCtaButtons": [
+      {
+        "label": "App Store",
+        "link": "https://apps.apple.com/",
+        "iconAlt": "Apple App Store",
+        "analyticsId": "CC_LANDING_APP_DOWNLOAD_IOS",
+        "analyticsCTAText": "app_store",
+        "order": 1
+      },
+      {
+        "label": "Play Store",
+        "link": "https://play.google.com/store/apps/",
+        "iconAlt": "Google Play Store",
+        "analyticsId": "CC_LANDING_APP_DOWNLOAD_ANDROID",
+        "analyticsCTAText": "play_store",
+        "order": 2
+      }
+    ],
+    "heroProductHighlighters": [
+      {
+        "text": "100% Digital Process",
+        "showIcon": true,
+        "order": 1
+      },
+      {
+        "text": "Instant Approvals",
+        "showIcon": true,
+        "order": 2
+      },
+      {
+        "text": "Zero Documentation",
+        "showIcon": true,
+        "order": 3
+      }
+    ],
+    "heroSlides": [
+      {
+        "title": "Explore 100+ Credit Cards",
+        "subtitle": "Compare features, rewards, and benefits to find your perfect match",
+        "order": 1
+      }
+    ],
+    "footerReferenceHeading": "Powered by",
+    "footerReferenceName": "ABCD",
+    "footerSideImageAlt": "Stack of credit cards",
+    "footerFeatures": [
+      {
+        "text": "100% Digital Process",
+        "order": 1
+      },
+      {
+        "text": "Secure & Encrypted",
+        "order": 2
+      },
+      {
+        "text": "24/7 Customer Support",
+        "order": 3
+      },
+      {
+        "text": "EMI Options Available",
+        "order": 4
+      },
+      {
+        "text": "No Hidden Charges",
+        "order": 5
+      }
+    ]
+  }
+}

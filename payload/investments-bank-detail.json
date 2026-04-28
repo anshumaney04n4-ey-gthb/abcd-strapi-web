@@ -1,0 +1,12 @@
+{
+  "data": {
+    "fsiCode": "SMCBIN",
+    "bankCode": "SMCBIN",
+    "bankName": "Suryoday Small Finance Bank",
+    "bankLogo": null,
+    "bankLogoUrl": "https://cdn.example.com/logos/suryoday.svg",
+    "interestRate": "8.05",
+    "interestRateUnit": "%",
+    "interestLabel": "Interest now"
+  }
+}
