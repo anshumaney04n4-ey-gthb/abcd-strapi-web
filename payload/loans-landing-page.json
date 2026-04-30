@@ -3,10 +3,8 @@
     "subProduct": "gold",
     "partner": "default",
     "header": {
-      "logo": null,
       "logoAlt": "ABCD Logo",
-      "logoSize": 40,
-      "mobileHeaderLogo": null
+      "logoSize": 40
     },
     "hero": {
       "title": "Easy and Hassle-Free\nGold Loans",
@@ -16,11 +14,9 @@
       "description": "Multiple Trusted Lenders, 24-Hour Disbursal, 13,000+ Pincodes servicability.",
       "descriptionHighlight": "24-Hour",
       "ctaText": "Apply Now",
-      "image": null,
-      "imageAuthenticated": null,
       "imageAlt": "Gold Loan Hero",
       "partnerLogos": [
-        { "src": null, "alt": "Muthoot Finance" }
+        { "alt": "Muthoot Finance" }
       ],
       "partnerLogosAuthenticated": [],
       "productHighlighters": [
@@ -46,13 +42,17 @@
       "title": "Gold Loan Calculator",
       "subtitle": "Calculate your gold loan amount instantly",
       "ctaText": "Apply Now",
-      "goldRateKarat": 24
+      "goldRateKarat": 24,
+      "interestRatePerMonth": 0.74,
+      "ltvRatio": 0.75,
+      "noteLabel": "Note:",
+      "noteText": "This is a tentative offer calculated on basis of LTV ratio of 75%. Final offer is subjective to lender's policy norms."
     },
     "trustedPartners": {
       "title": "Trusted Lending Partners",
       "subtitle": "Quick approvals. Secure gold loans made simple.",
       "columns": [
-        { "name": "IIFL Finance", "logoUrl": null, "highlighted": true }
+        { "name": "IIFL Finance", "highlighted": true }
       ],
       "rows": [
         { "label": "Minimum Loan Amount", "values": ["₹3,000 onwards", "₹3,000 onwards"] }
@@ -68,26 +68,26 @@
     "process": {
       "title": "Gold Loan Process",
       "titleAuthenticated": "How Gold Loan Works?",
-      "imageSrc": null,
-      "decorativeImageSrc": null,
+      "eyebrowText": "Gold loan",
+      "subtitle": "in 5 easy steps",
+      "firstRowCount": 3,
       "tabs": [
         {
           "label": "Apply Online",
           "steps": [
-            { "number": 1, "text": "Download the ABCD App and register yourself" }
+            { "processStepId": "apply", "number": 1, "text": "Download the ABCD App and register yourself" }
           ],
-          "image": null,
           "ctaText": "Apply Now"
         }
       ],
+      "steps": [],
       "ctaText": "Apply Now"
     },
     "securityFeatures": {
+      "title": "Discover the Benefits of Gold Loan on ABCD",
       "items": [
-        { "title": "High Loan to Value", "description": "Up to 85% LTV ratio", "iconUrl": null }
-      ],
-      "desktopBackgroundUrl": null,
-      "mobileBackgroundUrl": null
+        { "title": "High Loan to Value", "description": "Up to 85% LTV ratio" }
+      ]
     },
     "faq": {
       "title": "Frequently Asked Questions",
@@ -106,23 +106,20 @@
       "disclaimerLabel": "Disclaimer :",
       "disclaimerText": "The answers provided here are for informative purposes..."
     },
+    "appPromo": {
+      "title": "Everything Finance\nas simple as\nABCD",
+      "subtitle": "Download the ABCD app and start doing more with your money everyday",
+      "ctaButtons": [
+        { "label": "App Store", "link": "https://apps.apple.com/", "iconAlt": "App Store" }
+      ]
+    },
     "footer": {
       "referenceHeading": "Powered by",
       "referenceName": "ABCD",
-      "referenceLogo": null,
       "referenceCertification": "RBI Registered NBFC",
-      "sideImage": null,
       "sideImageAlt": "ABCD Footer",
       "features": [
         { "text": "Get Instant Offer" }
-      ]
-    },
-    "appPromo": {
-      "houseLogoSrc": null,
-      "qrSrc": null,
-      "phoneImageSrc": null,
-      "ctaButtons": [
-        { "label": "App Store", "link": "https://apps.apple.com/", "iconSrc": null, "iconAlt": "App Store" }
       ]
     },
     "mobileNavigation": {
