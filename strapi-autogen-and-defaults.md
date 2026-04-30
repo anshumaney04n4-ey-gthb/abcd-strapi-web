@@ -10,3 +10,9 @@ Save the JSON payload in existing directory : "/workspaces/abcd-strapi-web/paylo
 
 For APIs check this folder : "/workspaces/abcd-strapi-web/abcd_strapi_dost_portal/src/api"
 For components check this folder : "/workspaces/abcd-strapi-web/abcd_strapi_dost_portal/src/components"
+
+There should be complete logical separation of this API with other APIs. Keep separate API folders and
+component folder. No reuse of other API component is encouraged. If required, you can reuse the same API
+component.
+
+Create checklist for tasks.
