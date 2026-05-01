@@ -1,5 +1,6 @@
 {
   "data": {
+    "partner": "default",
     "panVerification": {
       "title": "Personal loan",
       "introText": "Enter following details",
@@ -108,33 +109,50 @@
       "noOfferCloseText": "Close",
       "definitions": [
         {
-          "id": "kfs",
           "label": "KFS",
           "highlightedTerm": "Key Facts Statement (KFS)",
           "description": "is a summary of important loan terms like interest rate, fees, and repayment details."
         },
         {
-          "id": "apr",
           "label": "APR",
           "highlightedTerm": "Annual Percentage Rate (APR)",
           "description": "for loans is the inclusive annualized rate that reflects the total cost of borrowing, including interest, fees, and operational expenses."
         }
       ],
-      "noOfferLenderIcons": [],
+      "noOfferLenderIcons": [
+        {
+          "src": "/assets/personal-loan/icons/ring-logo.png",
+          "alt": "Ring lender icon"
+        },
+        {
+          "src": "/assets/personal-loan/icons/fibe-logo.png",
+          "alt": "Fibe lender icon"
+        },
+        {
+          "src": "/assets/personal-loan/icons/prefr-logo.png",
+          "alt": "Prefr lender icon"
+        },
+        {
+          "src": "/assets/personal-loan/icons/abc.png",
+          "alt": "ABCL lender icon"
+        }
+      ],
       "lenderLogos": {
         "Ring": "/assets/personal-loan/icons/ring-logo.png",
         "Fibe": "/assets/personal-loan/icons/fibe-logo.png",
         "Prefr": "/assets/personal-loan/icons/prefr-logo.png",
         "ABCL": "/assets/personal-loan/icons/abc.png",
-        "abcl": "/assets/personal-loan/icons/abc.png"
+        "abcl_lender": "/assets/personal-loan/icons/abc.png"
       },
-      "lenderLogosListView": {
-        "Ring": "/assets/personal-loan/icons/ring-logo.png",
-        "Fibe": "/assets/personal-loan/icons/fibe-logo.png",
-        "Prefr": "/assets/personal-loan/icons/prefr-logo.png",
-        "ABCL": "/assets/personal-loan/icons/abc.png",
-        "abcl": "/assets/personal-loan/icons/abc.png"
-      }
+      "lenderLogosListView": [
+        {
+          "Ring": "/assets/personal-loan/icons/ring-logo.png",
+          "Fibe": "/assets/personal-loan/icons/fibe-logo.png",
+          "Prefr": "/assets/personal-loan/icons/prefr-logo.png",
+          "ABCL": "/assets/personal-loan/icons/abc.png",
+          "abcl_lender": "/assets/personal-loan/icons/abc.png"
+        }
+      ]
     }
   }
 }
