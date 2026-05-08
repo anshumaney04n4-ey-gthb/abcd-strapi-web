@@ -229,6 +229,32 @@
       "description": "You have received a gold gift",
       "acceptButtonText": "Accept Gift",
       "rejectButtonText": "Reject Gift"
+    },
+    "aiInsights": {
+      "enabled": true,
+      "header": "Insight For You",
+      "mascotImage": null,
+      "ctaLabel": "Ask AI",
+      "screenConfig": {
+        "dashboard": {
+          "enabled": true
+        },
+        "buy": {
+          "enabled": true
+        },
+        "buy-summary": {
+          "enabled": true
+        },
+        "sip-details": {
+          "enabled": true
+        },
+        "sip-summary": {
+          "enabled": true
+        },
+        "success": {
+          "enabled": true
+        }
+      }
     }
   }
 }
