@@ -64,6 +64,57 @@
         "isExternal": false,
         "externalUrl": ""
       }
-    ]
+    ],
+    "scoreRanges": {
+      "sidebarTitle": "Credit Score Ranges",
+      "sectionTitle": "RANGES OF THE SCORE",
+      "actionButtonText": "Got it",
+      "ranges": [
+        {
+          "id": "excellent",
+          "level": "excellent",
+          "label": "Excellent",
+          "rangeStart": 750,
+          "rangeEnd": 900,
+          "color": "#0A6A34"
+        },
+        {
+          "id": "very-good",
+          "level": "good",
+          "label": "Very Good",
+          "rangeStart": 700,
+          "rangeEnd": 749,
+          "color": "#7CB342"
+        },
+        {
+          "id": "good",
+          "level": "good",
+          "label": "Good",
+          "rangeStart": 650,
+          "rangeEnd": 699,
+          "color": "#9ACD32"
+        },
+        {
+          "id": "fair",
+          "level": "fair",
+          "label": "Fair / Okay",
+          "rangeStart": 550,
+          "rangeEnd": 649,
+          "color": "#F57C00"
+        },
+        {
+          "id": "needs-work",
+          "level": "needsWork",
+          "label": "Needs Work",
+          "rangeStart": 300,
+          "rangeEnd": 549,
+          "color": "#D32F2F"
+        }
+      ]
+    },
+    "insightCard": {
+      "bannerActionText": "See what's changed",
+      "reportActionText": "Get report"
+    }
   }
 }
