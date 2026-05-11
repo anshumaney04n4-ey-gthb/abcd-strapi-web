@@ -1139,6 +1139,19 @@
           "height": 12
         }
       }
+    },
+    "reviewSummary": {
+      "enabled": true,
+      "content": {
+        "title": "Select Plan",
+        "submitButtonText": "Buy now",
+        "helpAriaLabel": "Get help with review summary details",
+        "termsPreText": "By clicking on Buy now you are agreeing to",
+        "termsLinkText": "Terms & Conditions",
+        "termsUrl": "https://www.adityabirlacapital.com/abc-digital/terms-conditions",
+        "privacyLinkText": "Privacy Policy",
+        "privacyUrl": "https://www.adityabirlacapital.com/abc-digital/privacy-policy"
+      }
     }
   }
 }
